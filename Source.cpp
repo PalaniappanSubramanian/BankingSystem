@@ -169,6 +169,8 @@ void write_account()
 	outFile.close();
 }
 
+//Four more function definitions to be included
+
 void disp(int n)
 {
 	account ac;
